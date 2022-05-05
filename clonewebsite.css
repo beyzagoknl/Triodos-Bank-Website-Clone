@@ -238,6 +238,7 @@ header{
 
    #logobank{
     flex: 1;
+    margin: Opx;
    }
 
    #inloggen{
@@ -266,5 +267,14 @@ header{
 .social-media{
     gap: 1em;
 }
+    .three-head{
+    display: flex;
+    flex-direction: column;
+}
 
+#menulogo{
+    flex: 1;
+ 
+  
+}
 }
